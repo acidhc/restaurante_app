@@ -1,6 +1,5 @@
-README
-Sistema de Comandas para Restaurante
-Descripción
+#Sistema de Comandas para Restaurante
+#Descripción
 Este es un sistema de gestión de comandas para un restaurante, desarrollado en Python utilizando la biblioteca Tkinter para la interfaz gráfica de usuario. El sistema permite a los usuarios gestionar mesas, agregar productos a las órdenes, y actualizar el inventario automáticamente.
 
 Características
