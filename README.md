@@ -18,7 +18,7 @@ Este es un sistema de gestión de comandas para un restaurante, desarrollado en 
 2. Asegúrate de tener Python 3.x instalado.
 3. Instala los requisitos necesarios (Tkinter y SQLite3 vienen preinstalados con Python estándar).
 
-git clone https://github.com/tu-organización/tu-repositorio.git -b dev
+git clone https://github.com/acidhc/restaurante_app.git -b dev
 
 Inicia la aplicación.
 Selecciona una mesa para abrir una nueva orden.
@@ -48,7 +48,7 @@ Installation
 Clone this repository to your local machine.
 Make sure you have Python 3.x installed.
 Install the necessary requirements (Tkinter and SQLite3 come pre-installed with standard Python).
-git clone https://github.com/tu-organización/tu-repositorio.git -b dev
+git clone https://github.com/acidhc/restaurante_app.git -b dev
 
 Usage
 Start the application.
